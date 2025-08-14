@@ -5,7 +5,7 @@ Project Overview
 The goal of this project was to build a single, unified Power BI report that could be used by stakeholders across Sales, Marketing, Finance, Supply Chain, and the Executive team.
 By integrating data from multiple sources, applying advanced modeling, and designing an intuitive interface, the report provides actionable insights to improve decision-making, operational efficiency, and overall business growth.
 
-To Interact With my Dashboard : - _[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjE2MmNmYTItMDk4Yi00ZjJlLWE2YjUtYmQxMGJmOTA0YmEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+To Interact With my Dashboard : - _[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWQyODA4MTQtOWEwNS00Yzg0LWI1NjYtYWU1YTZhOTBhMTllIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
  # Key Objectives
 
